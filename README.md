@@ -6,8 +6,7 @@ As a former professional photographer, I am deeply creative and inquisitive. I f
 
 ## 👨‍💻 What I'm Currently Focused On...
 
-After a few quarters of courses in Python, I'm thrilled to be diving headfirst into web development.
-I'm currently improving my HTML, CSS, and Javascript skills with a focus on the MERN stack. I'm planning to start building a personal portfolio website to display my projects.
+After completing my first year of my CS degree, I am taking the summer to focus on honing my web development skills, building personal projects, and applying for internships for summer 2024.
 
 ---
 ### 🧰 Languages and Tools 
@@ -36,9 +35,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 #
 
 
-### 📊 Stats 
+<!-- ### 📊 Stats 
 
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronchafin&show_icons=true&theme=dark)
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronchafin&show_icons=true&theme=dark) --->
 <br/>
 
 #
