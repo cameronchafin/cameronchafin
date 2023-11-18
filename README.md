@@ -6,7 +6,7 @@ As a former professional photographer, I am deeply creative and inquisitive. I f
 
 ## 👨‍💻 What I'm Currently Focused On...
 
-After completing my first year of my CS degree, I am taking the summer to focus on honing my web development skills, building personal projects, and applying for internships for summer 2024.
+I am currently working through Analysis of Algorithms and Software Engineering 1. It's been great to learn more useful algorithms and get some extra Leetcode practice. For my Software Engineering class, I've chosen to work on a web application for foragers that allows users to photo identify wild mushrooms. It's been a challenging, but rewarding project to work on and I am looking forward to implementing more features. 
 
 ---
 ### 🧰 Languages and Tools 
